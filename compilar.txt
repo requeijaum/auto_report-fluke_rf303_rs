@@ -1,4 +1,4 @@
-sequência de comandos:
+sequÃªncia de comandos:
 
 cmd.exe
 
@@ -6,11 +6,11 @@ cd C:\Users\HMG\Dropbox\rafaelfrequiao\python_serial_bisturi\binario_windows\pyi
 
 -------------------------
 
-binário na pasta:
+binÃ¡rio na pasta:
 
-C:\Users\HMG\AppData\Local\Programs\Python\Python36-32\Scripts\pyinstaller.exe r14.spec
+C:\Users\HMG\AppData\Local\Programs\Python\Python36-32\Scripts\pyinstaller.exe r15.spec
 
 
-binário em um punico exe
+binÃ¡rio em um unico exe
 
-C:\Users\HMG\AppData\Local\Programs\Python\Python36-32\Scripts\pyinstaller.exe -F r14.spec
+C:\Users\HMG\AppData\Local\Programs\Python\Python36-32\Scripts\pyinstaller.exe -F r15.spec
