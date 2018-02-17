@@ -1,0 +1,16 @@
+sequência de comandos:
+
+cmd.exe
+
+cd C:\Users\HMG\Dropbox\rafaelfrequiao\python_serial_bisturi\binario_windows\pyinstaller-funciona
+
+-------------------------
+
+binário na pasta:
+
+C:\Users\HMG\AppData\Local\Programs\Python\Python36-32\Scripts\pyinstaller.exe r14.spec
+
+
+binário em um punico exe
+
+C:\Users\HMG\AppData\Local\Programs\Python\Python36-32\Scripts\pyinstaller.exe -F r14.spec
